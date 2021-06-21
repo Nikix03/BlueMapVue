@@ -18,8 +18,7 @@ export default {
     },
     settings: {
         title: "Opciones",
-        button: "        title: "Opciones",
-"
+        button: "Opciones",
     },
     goFullscreen: {
         button: "Abrir en Pantalla Completa"
